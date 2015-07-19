@@ -2578,3 +2578,600 @@ Started GET "/" for ::1 at 2015-07-14 15:38:54 +1000
 Processing by PagesController#home as HTML
   Rendered pages/home.html.erb within layouts/application (26.3ms)
 Completed 200 OK in 100ms (Views: 98.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 15:31:56 +1000
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (233.3ms)
+Completed 200 OK in 710ms (Views: 699.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 15:45:33 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 62ms (Views: 61.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 15:52:36 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 40ms (Views: 38.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 15:55:03 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 39ms (Views: 38.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 15:55:51 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 41ms (Views: 40.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 15:57:13 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 35ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 16:00:26 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 37ms (Views: 36.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 16:00:58 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 41ms (Views: 40.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 16:05:42 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 43ms (Views: 42.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 16:07:11 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 106ms (Views: 105.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 16:08:17 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 96ms (Views: 95.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 16:51:48 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (11.3ms)
+Completed 200 OK in 85ms (Views: 84.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 17:39:12 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 66ms (Views: 65.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 17:56:45 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (12.8ms)
+Completed 200 OK in 90ms (Views: 89.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 17:59:38 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (18.0ms)
+Completed 200 OK in 78ms (Views: 77.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 18:01:01 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 40ms (Views: 39.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 18:03:14 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 96ms (Views: 95.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 18:03:56 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (7.6ms)
+Completed 200 OK in 42ms (Views: 40.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-16 18:06:34 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 85ms (Views: 84.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:14:37 +1000
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (205.3ms)
+Completed 200 OK in 310ms (Views: 300.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:14:37 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 51ms (Views: 50.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:19:20 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (11.5ms)
+Completed 200 OK in 96ms (Views: 94.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:19:59 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 70ms (Views: 70.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:21:00 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 76ms (Views: 75.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:21:02 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 33ms (Views: 32.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:21:04 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (7.5ms)
+Completed 200 OK in 38ms (Views: 36.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:21:46 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 86ms (Views: 85.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:22:38 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 47ms (Views: 46.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:23:16 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 79ms (Views: 78.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:25:02 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 69ms (Views: 67.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:25:05 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 37ms (Views: 36.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:25:43 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 75ms (Views: 74.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:25:51 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 55ms (Views: 54.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:26:42 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 109ms (Views: 108.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:36:45 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 86ms (Views: 85.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 13:40:23 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (9.1ms)
+Completed 200 OK in 43ms (Views: 42.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 14:00:57 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 36ms (Views: 35.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 14:01:22 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 40ms (Views: 39.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 14:03:56 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 38ms (Views: 37.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 14:07:50 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (7.3ms)
+Completed 200 OK in 37ms (Views: 36.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 14:13:46 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (7.3ms)
+Completed 200 OK in 36ms (Views: 35.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 14:18:21 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 58ms (Views: 58.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 14:22:02 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (9.7ms)
+Completed 200 OK in 51ms (Views: 50.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 14:24:14 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (12.5ms)
+Completed 200 OK in 61ms (Views: 60.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 17:48:36 +1000
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (195.5ms)
+Completed 200 OK in 308ms (Views: 297.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 17:48:37 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 55ms (Views: 54.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 17:53:43 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (20.1ms)
+Completed 200 OK in 110ms (Views: 109.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 17:56:43 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (12.7ms)
+Completed 200 OK in 78ms (Views: 76.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 17:57:43 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 51ms (Views: 50.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 17:58:17 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 50ms (Views: 49.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 18:00:06 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (9.9ms)
+Completed 200 OK in 53ms (Views: 52.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 18:02:55 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 46ms (Views: 45.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 18:04:13 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 64ms (Views: 63.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 18:06:44 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (11.9ms)
+Completed 200 OK in 57ms (Views: 56.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 18:08:22 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 96ms (Views: 95.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 18:13:59 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (12.8ms)
+Completed 200 OK in 103ms (Views: 102.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/courses/part-time-courses/web-app-developer-pt" for ::1 at 2015-07-19 18:14:34 +1000
+
+ActionController::RoutingError (No route matches [GET] "/courses/part-time-courses/web-app-developer-pt"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  quiet_assets (1.1.0) lib/quiet_assets.rb:27:in `call_with_quiet_assets'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/Megan/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/Megan/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/Megan/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.9ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (5.4ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (105.0ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (60.0ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.7ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.8ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (130.5ms)
+
+
+Started GET "/courses/part-time-courses/web-app-developer-pt" for ::1 at 2015-07-19 18:14:34 +1000
+
+ActionController::RoutingError (No route matches [GET] "/courses/part-time-courses/web-app-developer-pt"):
+  actionpack (4.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  web-console (2.1.3) lib/web_console/middleware.rb:37:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  railties (4.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.1) lib/rails/rack/logger.rb:20:in `call'
+  quiet_assets (1.1.0) lib/quiet_assets.rb:27:in `call_with_quiet_assets'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  activesupport (4.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  actionpack (4.2.1) lib/action_dispatch/middleware/static.rb:113:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  railties (4.2.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.1) lib/rails/application.rb:164:in `call'
+  newrelic_rpm (3.12.1.298) lib/new_relic/agent/instrumentation/middleware_tracing.rb:67:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/Megan/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/Megan/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/Megan/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.9ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (3.7ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (3.1ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.3ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (107.2ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.7ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (52.3ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.9ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.9ms)
+  Rendered /Users/Megan/.rvm/gems/ruby-2.2.2@rails-423/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (127.1ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 18:15:40 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 56ms (Views: 55.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 18:17:27 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 99ms (Views: 98.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 18:19:41 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 95ms (Views: 94.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 18:20:20 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 94ms (Views: 93.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 18:21:05 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 55ms (Views: 54.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 18:21:25 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (11.4ms)
+Completed 200 OK in 49ms (Views: 48.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 18:24:45 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 72ms (Views: 71.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 19:13:09 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 126ms (Views: 124.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 19:13:53 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 62ms (Views: 61.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 19:15:14 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 96ms (Views: 95.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 19:22:40 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 44ms (Views: 43.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 19:28:17 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 44ms (Views: 43.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 19:28:34 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (11.9ms)
+Completed 200 OK in 45ms (Views: 44.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 19:28:50 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 48ms (Views: 47.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 19:29:42 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 61ms (Views: 60.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 19:30:42 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (9.9ms)
+Completed 200 OK in 115ms (Views: 114.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 19:39:44 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (12.6ms)
+Completed 200 OK in 69ms (Views: 68.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 19:51:50 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (8.8ms)
+Completed 200 OK in 41ms (Views: 40.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 19:52:52 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (12.1ms)
+Completed 200 OK in 53ms (Views: 52.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 19:53:45 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 39ms (Views: 38.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 19:54:12 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 32ms (Views: 31.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 19:55:06 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 41ms (Views: 40.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 20:11:03 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (23.8ms)
+Completed 200 OK in 59ms (Views: 58.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-19 20:19:02 +1000
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 55ms (Views: 54.1ms | ActiveRecord: 0.0ms)

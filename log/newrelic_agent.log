@@ -213,3 +213,68 @@
 [07/14/15 15:10:58 +1000 Peters-MacBook-Air.local (21773)] ERROR : Invalid license key, please contact support@newrelic.com
 [07/14/15 15:10:58 +1000 Peters-MacBook-Air.local (21773)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
 [07/14/15 17:23:03 +1000 Peters-MacBook-Air.local (21773)] INFO : Starting Agent shutdown
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Starting the New Relic agent in "development" environment.
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] WARN : No configuration file found. Working directory = /Users/Megan/TheCoderFactory/HackTheMedia
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] WARN : Looked in these locations (based on defaults): /Users/Megan/TheCoderFactory/HackTheMedia/config/newrelic.yml, /Users/Megan/TheCoderFactory/HackTheMedia/newrelic.yml, /Users/Megan/TheCoderFactory/HackTheMedia/config/newrelic.yml, /Users/Megan/TheCoderFactory/HackTheMedia/newrelic.yml, /Users/Megan/.newrelic/newrelic.yml, /Users/Megan/newrelic.yml
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Environment: development
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Dispatcher: webrick
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Application: development
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Installing ActiveJob instrumentation
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Installing ActiveRecord 4 instrumentation
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Installing Net instrumentation
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Installing deferred Rack instrumentation
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Installing Rack::Builder middleware instrumentation
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Installing Rails 3+ middleware instrumentation
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Installing Rails 4 Controller instrumentation
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Installing Rails 4 view instrumentation
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Installing Rails 4 Error instrumentation
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Finished instrumentation
+[07/16/15 15:31:16 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Doing deferred dependency-detection before Rack startup
+[07/16/15 15:31:58 +1000 192-168-1-60.tpgi.com.au (51315)] ERROR : Invalid license key, please contact support@newrelic.com
+[07/16/15 15:31:58 +1000 192-168-1-60.tpgi.com.au (51315)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[07/16/15 18:06:52 +1000 192-168-1-60.tpgi.com.au (51315)] INFO : Starting Agent shutdown
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Starting the New Relic agent in "development" environment.
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] WARN : No configuration file found. Working directory = /Users/Megan/TheCoderFactory/HackTheMedia
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] WARN : Looked in these locations (based on defaults): /Users/Megan/TheCoderFactory/HackTheMedia/config/newrelic.yml, /Users/Megan/TheCoderFactory/HackTheMedia/newrelic.yml, /Users/Megan/TheCoderFactory/HackTheMedia/config/newrelic.yml, /Users/Megan/TheCoderFactory/HackTheMedia/newrelic.yml, /Users/Megan/.newrelic/newrelic.yml, /Users/Megan/newrelic.yml
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Environment: development
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Dispatcher: webrick
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Application: development
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Installing ActiveJob instrumentation
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Installing ActiveRecord 4 instrumentation
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Installing Net instrumentation
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Installing deferred Rack instrumentation
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Installing Rack::Builder middleware instrumentation
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Installing Rails 3+ middleware instrumentation
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Installing Rails 4 Controller instrumentation
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Installing Rails 4 view instrumentation
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Installing Rails 4 Error instrumentation
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Finished instrumentation
+[07/19/15 13:14:30 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Doing deferred dependency-detection before Rack startup
+[07/19/15 13:14:39 +1000 192-168-1-113.tpgi.com.au (1156)] ERROR : Invalid license key, please contact support@newrelic.com
+[07/19/15 13:14:39 +1000 192-168-1-113.tpgi.com.au (1156)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[07/19/15 14:31:23 +1000 192-168-1-113.tpgi.com.au (1156)] INFO : Starting Agent shutdown
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : Starting the New Relic agent in "development" environment.
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] WARN : No configuration file found. Working directory = /Users/Megan/TheCoderFactory/HackTheMedia
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] WARN : Looked in these locations (based on defaults): /Users/Megan/TheCoderFactory/HackTheMedia/config/newrelic.yml, /Users/Megan/TheCoderFactory/HackTheMedia/newrelic.yml, /Users/Megan/TheCoderFactory/HackTheMedia/config/newrelic.yml, /Users/Megan/TheCoderFactory/HackTheMedia/newrelic.yml, /Users/Megan/.newrelic/newrelic.yml, /Users/Megan/newrelic.yml
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : Environment: development
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : Dispatcher: webrick
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : Application: development
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : Installing ActiveJob instrumentation
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : Installing ActiveRecord 4 instrumentation
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : Installing Net instrumentation
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : Installing deferred Rack instrumentation
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : Installing Rack::Builder middleware instrumentation
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : Installing Rails 3+ middleware instrumentation
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : Installing Rails 4 Controller instrumentation
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : Installing Rails 4 view instrumentation
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : Installing Rails 4 Error instrumentation
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : Finished instrumentation
+[07/19/15 17:48:08 +1000 Megans-MacBook-Air.local (1601)] INFO : Doing deferred dependency-detection before Rack startup
+[07/19/15 17:48:39 +1000 Megans-MacBook-Air.local (1601)] ERROR : Invalid license key, please contact support@newrelic.com
+[07/19/15 17:48:39 +1000 Megans-MacBook-Air.local (1601)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.

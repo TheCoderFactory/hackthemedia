@@ -262,11 +262,17 @@
 
 #about h3, h4 {
 	  color: #8E24AA;
-
 }
-
-#about a {
-	text-decoration: none;
+.ct-iconBox{
+	border: 1px solid #C0C0C0;
+  	padding: 4%;
+  	box-shadow: 5px 5px 5px #E0E0E0;
+}
+#about .ct-iconBox-content h4{
+	color: #8E24AA;
+}
+#about .ct-iconBox-content p{
+	font-size: 0.67em;
 }
 
 .hacker_question {
@@ -275,7 +281,7 @@
 
 #faq {
 	opacity: .9;
-	color: white;
+	color: #8A8A8A;
 }
 
 #faq .question {
@@ -305,8 +311,21 @@
 	color: #8A8A8A;
 }
 
-#sponsor h3 {
+#sponsor h3, #faq h3 {
 	color: #8E24AA;
+}
+#mc_embed_signup {
+	background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; 
+}
+#mc_embed_signup input.email, #mc_embed_signup input.button{
+	margin: 0 auto !important;
+}
+#mc_embed_signup input.email{
+	text-align: center;
+}
+#mc_embed_signup_scroll{
+	width:85%;
+	margin: 0 auto;
 }
 
 #footer {
@@ -356,7 +375,7 @@ h1 {
 
 h4 {
 	font-size: 4vmin;
-    color:white !important;
+    color:white;
 }
 
 h6 {
@@ -398,7 +417,7 @@ h6 {
 
 .drawer{
     text-align: left;
-    font-size: 3vmin !important;
+    font-size: 3vmin;
 }
 
 .question{
@@ -444,6 +463,7 @@ h3 {
 
 .hacker_intro {
 	text-align: center;
+	color:rgb(142, 36, 170);
 }
 
 .faq_email {
@@ -453,6 +473,9 @@ h3 {
 .disclaimer{
 	font-size: 2vmin;
 	color: rgb(138, 138, 138);
+}
+.container-fluid{
+	padding: 0;
 }
 /* responsive CSS */
 
@@ -518,15 +541,19 @@ h3 {
     #mc_embed_signup{
     width: 250px;
     margin: auto;
-}
+	}
+	#mc_embed_signup_scroll{
+	width:100%;
+	margin: 0 auto;
+	}	
     #mc_embed_signup input.email {
 
-  min-width: 250px !important;
+  		min-width: 250px !important;
 }
-#mc_embed_signup input.button {
+	#mc_embed_signup input.button {
 
-  min-width: 250px !important;
-}
+  	min-width: 250px !important;
+	}
 }
 
 .form-control {
