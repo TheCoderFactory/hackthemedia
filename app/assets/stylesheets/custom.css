@@ -12,6 +12,9 @@
 	font-family: AvenirRegular, "Calibri", sans-serif;
 }*/
 
+body{
+	font-family: Arial, Helvetica, sans-serif !important;
+}
 .navbar-default {
   background-color: white !important;
   border-color: white !important;
@@ -19,12 +22,12 @@
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-  background-color: #8E24AA;
+  background-color: #2986ff;
   color: white;
 }
 
 .navbar-default .navbar-nav>li>a {
-  color: #8E24AA;
+  color: #2986ff;
 }
 
 .section {
@@ -56,16 +59,11 @@
 	top: -32px;
 	width: 100%;
 	height: 100%;
-	-webkit-transform: skewY(2.7deg);
-	-moz-transform: skewY(2.7deg);
-	-ms-transform: skewY(2.7deg);
-	-o-transform: skewY(2.7deg);
-	transform: skewY(2.7deg);
 
-	background: -webkit-linear-gradient(#8E24AA, #673AB7);
-	background: -o-linear-gradient(#8E24AA, #673AB7);
-	background: -moz-linear-gradient(#8E24AA, #673AB7);
-	background: linear-gradient(#8E24AA, #673AB7);
+	background: -webkit-linear-gradient(#80a4ff, #1a5bff);
+	background: -o-linear-gradient(#80a4ff, #1a5bff);
+	background: -moz-linear-gradient(#80a4ff, #1a5bff);
+	background: linear-gradient(#80a4ff, #1a5bff);
 
 	color: white;
 }
@@ -88,16 +86,10 @@
   top: -32px;
   width: 100%;
   height: 100%;
-  -webkit-transform: skewY(-2.7deg);
-  -moz-transform: skewY(-2.7deg);
-  -ms-transform: skewY(-2.7deg);
-  -o-transform: skewY(-2.7deg);
-  transform: skewY(-2.7deg);
-
-  background: -webkit-linear-gradient(#8E24AA, #673AB7);
-  background: -o-linear-gradient(#8E24AA, #673AB7);
-  background: -moz-linear-gradient(#8E24AA, #673AB7);
-  background: linear-gradient(#8E24AA, #673AB7);
+  background: -webkit-linear-gradient(#80a4ff, #1a5bff);
+  background: -o-linear-gradient(#80a4ff, #1a5bff);
+  background: -moz-linear-gradient(#80a4ff, #1a5bff);
+  background: linear-gradient(#80a4ff, #1a5bff);
 
   color: white;
 }
@@ -152,7 +144,7 @@
 .faq_content {
 	z-index: 1;
 	position: relative;
-	font-size: 3.5vmin;
+	font-size: 3vmin;
 }
 
 .content {
@@ -168,7 +160,12 @@
   float: none;
   vertical-align: top;
 }
-
+.navbar-nav>li>a:hover{
+	color: #ff6229 !important;
+}
+.navbar-default .navbar-nav>.active>a:hover{
+	color: white !important;
+}
 .navbar .navbar-collapse {
   	text-align: center;
 }
@@ -189,7 +186,7 @@
 }
 
 .section h5 {
-	font-size: 3.5vmin;
+	font-size: 3vmin;
 }
 
 .section_skewed p {
@@ -212,7 +209,7 @@
 
 #header {
 	text-align: center;
-	color: #8E24AA;
+	color: #2986ff;
 	position: relative;
 	padding-top: 60px;
 	width: 100%;
@@ -261,7 +258,7 @@
 }
 
 #about h3, h4 {
-	  color: #8E24AA;
+	  color: #2986ff;
 }
 .ct-iconBox{
 	border: 1px solid #C0C0C0;
@@ -269,10 +266,10 @@
   	box-shadow: 5px 5px 5px #E0E0E0;
 }
 #about .ct-iconBox-content h4{
-	color: #8E24AA;
+	color: #ff6229;
 }
 #about .ct-iconBox-content p{
-	font-size: 0.67em;
+	font-size: 0.8em;
 }
 
 .hacker_question {
@@ -308,11 +305,13 @@
 }
 
 #sponsor {
-	color: #8A8A8A;
+	color: white;
 }
-
-#sponsor h3, #faq h3 {
-	color: #8E24AA;
+#faq h3 {
+	color: #2986ff;
+}
+.sponsor_center a, .faq_email a{
+	color: #ff6229;
 }
 #mc_embed_signup {
 	background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; 
@@ -327,13 +326,15 @@
 	width:85%;
 	margin: 0 auto;
 }
-
+#prizes{
+	color:white;
+}
 #footer {
 	opacity: .9;
-	background: -webkit-linear-gradient(#8E24AA, #673AB7);
-	background: -o-linear-gradient(#8E24AA, #673AB7);
-	background: -moz-linear-gradient(#8E24AA, #673AB7);
-	background: linear-gradient(#8E24AA, #673AB7);
+	background: -webkit-linear-gradient(#80a4ff, #1a5bff);
+	background: -o-linear-gradient(#80a4ff, #1a5bff);
+	background: -moz-linear-gradient(#80a4ff, #1a5bff);
+	background: linear-gradient(#80a4ff, #1a5bff);
 	color: white;
 	padding: 7px;
 }
@@ -356,7 +357,7 @@
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
-  color: #8E24AA;
+  color: #ff6229;
   background-color: white;
 }
 .nav-tabs > li, .nav-pills > li {
@@ -463,7 +464,7 @@ h3 {
 
 .hacker_intro {
 	text-align: center;
-	color:rgb(142, 36, 170);
+	color: #2986ff;
 }
 
 .faq_email {
