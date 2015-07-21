@@ -18,7 +18,7 @@ body{
 .navbar-default {
   background-color: white !important;
   border-color: white !important;
-  color: #8E24AA;
+  /*color: #8E24AA;*/
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
@@ -233,14 +233,14 @@ body{
 		border-radius: 4px;
 	border-color: #EFEFEF;
 	border: 1px #FFFFFF;
-	background: -webkit-linear-gradient(#8E24AA, #673AB7);
-	background: -o-linear-gradient(#8E24AA, #673AB7);
-	background: -moz-linear-gradient(#8E24AA, #673AB7);
-	background: linear-gradient(#8E24AA, #673AB7);
+	background: -webkit-linear-gradient(#80a4ff, #1a5bff);
+	background: -o-linear-gradient(#80a4ff, #1a5bff);
+	background: -moz-linear-gradient(#80a4ff, #1a5bff);
+	background: linear-gradient(#80a4ff, #1a5bff);
 	height: 40px;
 	width: 160px;
 	color: #FFFFFF;
-	border-color: #8E24AA;
+	border-color: #1a5bff;
 	font-size: 3vmin;
 	font-family: AvenirMedium, "Calibri", sans-serif;
 	margin-left: 8px;
